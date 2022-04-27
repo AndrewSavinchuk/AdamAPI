@@ -2,7 +2,7 @@ package com.cydeo.day1;
 
 import org.junit.jupiter.api.Test;
 
-public class T4_SpartanApi_BeforeAll_AfterAll {
+public class T3_SpartanApi_BeforeAll_AfterAll {
     /**
      * Task 3:
      * 1. Send request to Spartan url and save the response

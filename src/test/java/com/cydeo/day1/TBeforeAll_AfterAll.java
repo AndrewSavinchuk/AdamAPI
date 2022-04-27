@@ -6,7 +6,7 @@ import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.BeforeAll;
 import org.junit.jupiter.api.Test;
 
-public class T3_BeforeAll_AfterAll {
+public class TBeforeAll_AfterAll {
   @BeforeAll
   public void beforeAll(){
       RestAssured.baseURI="http://3.86.82.161:1000";
