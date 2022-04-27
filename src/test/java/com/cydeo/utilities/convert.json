@@ -1,0 +1,31 @@
+{
+  "employee_id": 150,
+  "first_name": "Peter",
+  "last_name": "Tucker",
+  "email": "PTUCKER",
+  "phone_number": "011.44.1344.129268",
+  "hire_date": "2005-01-30T00:00:00Z",
+  "job_id": "SA_REP",
+  "salary": 10000,
+  "commission_pct": 0.3,
+  "manager_id": 145,
+  "department_id": 80,
+  "links": [
+    {
+      "rel": "self",
+      "href": "http://3.86.82.161:1000/ords/hr/employees/150"
+    },
+    {
+      "rel": "edit",
+      "href": "http://3.86.82.161:1000/ords/hr/employees/150"
+    },
+    {
+      "rel": "describedby",
+      "href": "http://3.86.82.161:1000/ords/hr/metadata-catalog/employees/item"
+    },
+    {
+      "rel": "collection",
+      "href": "http://3.86.82.161:1000/ords/hr/employees/"
+    }
+  ]
+}
